@@ -1,2 +1,2 @@
 # Minesweeper
-Minesweeper created in C# and WPF
+Simple Minesweeper created in Python.
